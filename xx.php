@@ -1,3 +1,3 @@
 <?php
-eval(pwd);
+eval(phpinfo());
 ?>
